@@ -1,0 +1,10 @@
+C:\Users\yulir\source\repos\CajadeSeleccion\bin\Debug\CajadeSeleccion.exe.config
+C:\Users\yulir\source\repos\CajadeSeleccion\bin\Debug\CajadeSeleccion.exe
+C:\Users\yulir\source\repos\CajadeSeleccion\bin\Debug\CajadeSeleccion.pdb
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.Form1.resources
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.Properties.Resources.resources
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.exe
+C:\Users\yulir\source\repos\CajadeSeleccion\obj\Debug\CajadeSeleccion.pdb

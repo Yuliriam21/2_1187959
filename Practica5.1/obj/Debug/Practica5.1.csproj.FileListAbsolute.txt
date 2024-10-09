@@ -1,0 +1,10 @@
+C:\Users\yulir\source\repos\Practica5.1\bin\Debug\Practica5.1.exe.config
+C:\Users\yulir\source\repos\Practica5.1\bin\Debug\Practica5.1.exe
+C:\Users\yulir\source\repos\Practica5.1\bin\Debug\Practica5.1.pdb
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5.1.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5._1.Form1.resources
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5._1.Properties.Resources.resources
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5.1.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5.1.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5.1.exe
+C:\Users\yulir\source\repos\Practica5.1\obj\Debug\Practica5.1.pdb

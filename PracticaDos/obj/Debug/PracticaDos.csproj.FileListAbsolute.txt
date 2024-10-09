@@ -1,0 +1,7 @@
+C:\Users\yulir\source\repos\PracticaDos\bin\Debug\PracticaDos.exe.config
+C:\Users\yulir\source\repos\PracticaDos\bin\Debug\PracticaDos.exe
+C:\Users\yulir\source\repos\PracticaDos\bin\Debug\PracticaDos.pdb
+C:\Users\yulir\source\repos\PracticaDos\obj\Debug\PracticaDos.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\PracticaDos\obj\Debug\PracticaDos.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\PracticaDos\obj\Debug\PracticaDos.exe
+C:\Users\yulir\source\repos\PracticaDos\obj\Debug\PracticaDos.pdb

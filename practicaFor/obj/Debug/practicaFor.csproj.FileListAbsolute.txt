@@ -1,0 +1,2 @@
+C:\Users\yulir\source\repos\practicaFor\obj\Debug\practicaFor.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\practicaFor\obj\Debug\practicaFor.csproj.CoreCompileInputs.cache

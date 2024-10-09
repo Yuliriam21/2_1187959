@@ -1,0 +1,7 @@
+C:\Users\yulir\source\repos\tarea3\bin\Debug\tarea3.exe.config
+C:\Users\yulir\source\repos\tarea3\bin\Debug\tarea3.exe
+C:\Users\yulir\source\repos\tarea3\bin\Debug\tarea3.pdb
+C:\Users\yulir\source\repos\tarea3\obj\Debug\tarea3.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\tarea3\obj\Debug\tarea3.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\tarea3\obj\Debug\tarea3.exe
+C:\Users\yulir\source\repos\tarea3\obj\Debug\tarea3.pdb

@@ -1,0 +1,7 @@
+C:\Users\yulir\source\repos\practicaAngel\bin\Debug\practicaAngel.exe.config
+C:\Users\yulir\source\repos\practicaAngel\bin\Debug\practicaAngel.exe
+C:\Users\yulir\source\repos\practicaAngel\bin\Debug\practicaAngel.pdb
+C:\Users\yulir\source\repos\practicaAngel\obj\Debug\practicaAngel.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\practicaAngel\obj\Debug\practicaAngel.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\practicaAngel\obj\Debug\practicaAngel.exe
+C:\Users\yulir\source\repos\practicaAngel\obj\Debug\practicaAngel.pdb

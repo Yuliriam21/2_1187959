@@ -1,0 +1,14 @@
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.Form1.resources
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.Properties.Resources.resources
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\tarea4\bin\Debug\resources\boo.wav
+C:\Users\yulir\source\repos\tarea4\bin\Debug\resources\cat.wav
+C:\Users\yulir\source\repos\tarea4\bin\Debug\resources\drums.wav
+C:\Users\yulir\source\repos\tarea4\bin\Debug\resources\laugh.wav
+C:\Users\yulir\source\repos\tarea4\bin\Debug\tarea4.exe.config
+C:\Users\yulir\source\repos\tarea4\bin\Debug\tarea4.exe
+C:\Users\yulir\source\repos\tarea4\bin\Debug\tarea4.pdb
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.exe
+C:\Users\yulir\source\repos\tarea4\obj\Debug\tarea4.pdb

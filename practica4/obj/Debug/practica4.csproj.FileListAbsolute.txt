@@ -1,0 +1,7 @@
+C:\Users\yulir\source\repos\practica4\bin\Debug\practica4.exe.config
+C:\Users\yulir\source\repos\practica4\bin\Debug\practica4.exe
+C:\Users\yulir\source\repos\practica4\bin\Debug\practica4.pdb
+C:\Users\yulir\source\repos\practica4\obj\Debug\practica4.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\practica4\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\practica4\obj\Debug\practica4.exe
+C:\Users\yulir\source\repos\practica4\obj\Debug\practica4.pdb

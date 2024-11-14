@@ -1,0 +1,13 @@
+C:\Users\yulir\source\repos\9practica\bin\Debug\9practica.exe.config
+C:\Users\yulir\source\repos\9practica\bin\Debug\9practica.exe
+C:\Users\yulir\source\repos\9practica\bin\Debug\9practica.pdb
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\9practica\obj\Debug\_9practica.Form1.resources
+C:\Users\yulir\source\repos\9practica\obj\Debug\_9practica.Properties.Resources.resources
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.exe
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.pdb
+C:\Users\yulir\source\repos\9practica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yulir\source\repos\9practica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yulir\source\repos\9practica\obj\Debug\9practica.csproj.Up2Date

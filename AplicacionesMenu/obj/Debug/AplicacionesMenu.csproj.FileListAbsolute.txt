@@ -1,0 +1,10 @@
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.Form1.resources
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.Properties.Resources.resources
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.csproj.CoreCompileInputs.cache
+C:\Users\yulir\source\repos\AplicacionesMenu\bin\Debug\AplicacionesMenu.exe.config
+C:\Users\yulir\source\repos\AplicacionesMenu\bin\Debug\AplicacionesMenu.exe
+C:\Users\yulir\source\repos\AplicacionesMenu\bin\Debug\AplicacionesMenu.pdb
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.exe
+C:\Users\yulir\source\repos\AplicacionesMenu\obj\Debug\AplicacionesMenu.pdb

@@ -16,6 +16,8 @@ namespace practica_8
         string operacion = "";
         bool operacionEnCurso = false;
         private object textBox1;
+        List<string> historialOperaciones = new List<string>();
+        string archivoHistorial = "historial.txt";
 
         public Form1()
         {
@@ -47,8 +49,6 @@ namespace practica_8
 
         private void button1_Click(object sender, EventArgs e)
         {
-            operacion += "1";
-            textBox1.Text = operacion;
             Button b = (Button)sender;
             Insertar(b.Text);
         }
@@ -149,6 +149,7 @@ namespace practica_8
 
         private void button12_Click(object sender, EventArgs e)
         {
+            double resultado = 0;
             Pantalla.Text = Pantalla.Text.Split(' ')[0];
 
             double valor2 = Convert.ToDouble(Pantalla.Text); 
@@ -172,6 +173,11 @@ namespace practica_8
                     break;
             }
 
+            Pantalla.Text = resultado.ToString();
+
+            string operacionHistorial = $"{valor1} {operacion} {valor2} = {resultado}";
+            historialOperaciones.Add(operacionHistorial);
+
             operacionEnCurso = false; 
         }
         private void button21_Click(object sender, EventArgs e)
@@ -179,6 +185,30 @@ namespace practica_8
             Pantalla.Text = "0";
             valor1 = 0;
             operacion = "";
+        }
+
+        private void historialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (historialOperaciones.Count > 0)
+            {
+                
+                string historialTexto = string.Join(Environment.NewLine, historialOperaciones);
+                textBox2.Text = historialTexto; 
+            }
+            else
+            {
+                textBox2.Text = "No hay historial disponible."; 
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\yulir\source\repos\practica9\obj\Debug\practica9.csproj.AssemblyReference.cache
+C:\Users\yulir\source\repos\practica9\obj\Debug\practica9.Form1.resources
+C:\Users\yulir\source\repos\practica9\obj\Debug\practica9.Properties.Resources.resources
+C:\Users\yulir\source\repos\practica9\obj\Debug\practica9.csproj.GenerateResource.cache
+C:\Users\yulir\source\repos\practica9\obj\Debug\practica9.csproj.CoreCompileInputs.cache
